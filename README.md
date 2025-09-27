@@ -6,6 +6,7 @@ Functionality has been extended with inversion-of-control mechanics to help mini
 
 Parsing supports String, byte[], char[] and InputStream data sources.
 
+
 ## Basic Usage
 
 See [JsonIterator.java](json-iterator/src/main/java/systems/comodal/jsoniter/JsonIterator.java) for the public interface.
