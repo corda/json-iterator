@@ -6,11 +6,12 @@ pluginManagement {
       credentials(PasswordCredentials::class)
     }
     gradlePluginPortal()
+    mavenLocal()
   }
 }
 
 plugins {
-  id("software.sava.build") version "0.1.21"
+  id("software.sava.build") version "0.1.36-j17-1"
 }
 
 rootProject.name = "json-iterator"
